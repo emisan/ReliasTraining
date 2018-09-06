@@ -1,0 +1,13 @@
+/* gesondertes CSS neben bootstrap für die MEDYS-Homepage */
+
+body
+{
+	/* needed for example when a scrollspy should be used */
+	position: relative;
+}
+
+a.dropdown-item:hover
+{
+	background-color:#6C757D;
+	color:#F8F9FA;
+}
